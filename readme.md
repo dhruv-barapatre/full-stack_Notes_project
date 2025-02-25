@@ -30,11 +30,6 @@ A **MERN Stack** application to create, edit, delete, and manage notes efficient
 
 ---
 
-## 🔗 Live Demo  
-🌐 **[Live Project](#)** _(Add your live link here)_
-
----
-
 ## 📦 Installation  
 
 ### 🖥️ **Frontend Setup**  
